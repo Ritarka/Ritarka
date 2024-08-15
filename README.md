@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 # 💫About Me :
 😄 Hi, I am Ritarka Samanta  
-🔭 I am a computer engineering major at Georgia Tech  
-🌱 I am currently learning about algorithms and architecture  
+🔭 I am a Master's student at Carnegie Mellon   
+🌱 I love puzzles and algorithms   
+⚡ I'm currently working on High-Performance Computing and Machine Learning  
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ritarka) 
